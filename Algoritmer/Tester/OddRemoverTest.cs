@@ -1,5 +1,3 @@
-using TogBillet;
-
 namespace Tester;
 
 [TestClass]

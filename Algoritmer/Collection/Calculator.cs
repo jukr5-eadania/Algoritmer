@@ -1,7 +1,7 @@
 ﻿using System.Runtime.CompilerServices;
 [assembly: InternalsVisibleTo("Tester")]
 
-namespace Calculator
+namespace Collection
 {
     internal class Calculator
     {

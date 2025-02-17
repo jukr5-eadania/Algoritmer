@@ -1,4 +1,4 @@
-﻿namespace CalculatorTest
+﻿namespace Tester
 {
     [TestClass]
     public sealed class CalculatorTest
@@ -7,7 +7,7 @@
         public void TestAdd()
         {
             //Arrange
-            Calculator.Calculator calculator = new();
+            Collection.Calculator calculator = new();
             float first = 15;
             float second = 10;
             float expected = 25;

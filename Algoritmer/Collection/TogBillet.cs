@@ -1,10 +1,7 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Runtime.CompilerServices;
+﻿using System.Runtime.CompilerServices;
 [assembly: InternalsVisibleTo("Tester")]
 
-namespace TogBillet
+namespace Collection
 {
     internal class TogBillet
     {

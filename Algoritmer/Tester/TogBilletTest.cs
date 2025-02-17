@@ -1,9 +1,9 @@
-﻿namespace TogBilletTest
+﻿namespace Tester
 {
     [TestClass]
     public sealed class TogBilletTest
     {
-        TogBillet.TogBillet togbillet = new();
+        Collection.TogBillet togbillet = new();
 
         [TestMethod]
         public void TestBilletBaby()
