@@ -1,4 +1,4 @@
-﻿namespace Tester
+﻿namespace TogBilletTest
 {
     [TestClass]
     public sealed class TogBilletTest

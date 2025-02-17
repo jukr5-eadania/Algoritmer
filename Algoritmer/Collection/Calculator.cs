@@ -1,5 +1,5 @@
 ﻿using System.Runtime.CompilerServices;
-[assembly: InternalsVisibleTo("CalculatorTest")]
+[assembly: InternalsVisibleTo("Tester")]
 
 namespace Calculator
 {
