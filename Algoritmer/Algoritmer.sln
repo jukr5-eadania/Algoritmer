@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinkedList", "LinkedList\Li
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HighScore", "HighScore\HighScore.csproj", "{7C7643DC-9A71-4BB3-A0C6-AC9CC04B73F3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericList", "GenericList\GenericList.csproj", "{2376C588-12DC-4BB3-B308-F8C831CF45AF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{7C7643DC-9A71-4BB3-A0C6-AC9CC04B73F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7C7643DC-9A71-4BB3-A0C6-AC9CC04B73F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7C7643DC-9A71-4BB3-A0C6-AC9CC04B73F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2376C588-12DC-4BB3-B308-F8C831CF45AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2376C588-12DC-4BB3-B308-F8C831CF45AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2376C588-12DC-4BB3-B308-F8C831CF45AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2376C588-12DC-4BB3-B308-F8C831CF45AF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
