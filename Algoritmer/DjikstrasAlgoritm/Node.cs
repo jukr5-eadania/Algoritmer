@@ -25,5 +25,10 @@ namespace DjikstrasAlgoritm
         {
             Edges.Add(new Edge<T>(this, other, weight));
         }
+
+        public override string ToString()
+        {
+            return Data.ToString();
+        }
     }
 }
